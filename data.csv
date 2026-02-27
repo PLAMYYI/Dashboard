@@ -1,0 +1,11 @@
+age,monthly_charge,contract_type,churn
+25,500,Monthly,Yes
+40,1200,Yearly,No
+30,700,Monthly,Yes
+35,1000,Yearly,No
+28,650,Monthly,Yes
+45,1500,Yearly,No
+50,1800,Yearly,No
+22,400,Monthly,Yes
+33,900,Monthly,No
+38,1100,Yearly,No
