@@ -62,3 +62,5 @@ input_data = pd.DataFrame({
 if st.button("Predict"):
     prediction = predictor.predict(input_data)
     st.success(f"Prediction: {prediction.values[0]}")
+
+# The End
